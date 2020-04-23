@@ -1,6 +1,6 @@
 # Bootstrapping Matrix Quantum Mechanics
 
-This is the code for bootstrap numerics related to arXiv: ... 
+This is the code for bootstrap numerics related to arXiv:2004.10212. 
 
 Here `algebra.py` contains some sparse matrix linear algebra routines for solving the linear equations, `optimize.py` uses a sequential semidefinite programming algorithm to do gradient descent with constraints, `demo.py` has some simple demonstrations of the numerics, `solver.py` is the main code for generating relations between observables and the bootstrap matrix, `trace.py` includes a helper class for dealing with trace operators and `utility.py` has miscellaneous functions for debugging.
 
